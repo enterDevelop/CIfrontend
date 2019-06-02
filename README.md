@@ -1,1 +1,1 @@
-# CIfrontend [![Build Status](https://travis-ci.org/enterDevelop/CIfrontend.svg?branch=master)](https://travis-ci.org/enterDevelop/CIfrontend)
+# CIfrontend [![Build Status](https://travis-ci.org/enterDevelop/CIfrontend.svg?branch=master)](https://travis-ci.org/enterDevelop/CIfrontend) [![Codecov Coverage](https://img.shields.io/codecov/c/github/enterDevelop/CIfrontend/master.svg?style=flat-square)](https://codecov.io/gh/enterDevelop/CIfrontend/)
