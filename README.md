@@ -1,1 +1,1 @@
-# CIfrontend
+# CIfrontend [![Build Status](https://travis-ci.org/enterDevelop/CIfrontend.svg?branch=master)](https://travis-ci.org/enterDevelop/CIfrontend)
